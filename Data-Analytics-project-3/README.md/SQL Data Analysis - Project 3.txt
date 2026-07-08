@@ -1,0 +1,80 @@
+# SQL Data Analysis - Project 3
+
+## 📌 Project Overview
+
+This project demonstrates SQL data analysis using an E-commerce Sales dataset. The objective is to extract meaningful business insights using SQL queries such as SELECT, WHERE, ORDER BY, GROUP BY, COUNT(), SUM(), and AVG().
+
+## 🎯 Objectives
+
+- Retrieve data using SQL queries.
+- Filter records using WHERE.
+- Sort records using ORDER BY.
+- Group records using GROUP BY.
+- Perform aggregate calculations using COUNT(), SUM(), and AVG().
+- Analyze sales trends and customer order information.
+
+## 🛠 Tools Used
+
+- MySQL Server 8.0
+- MySQL Workbench
+- Microsoft Excel
+- Git & GitHub
+
+## 📂 Dataset
+
+The dataset contains 1200 e-commerce sales records with 14 columns, including:
+
+- OrderID
+- Date
+- CustomerID
+- Product
+- Quantity
+- UnitPrice
+- ShippingAddress
+- PaymentMethod
+- OrderStatus
+- TrackingNumber
+- ItemsInCart
+- CouponCode
+- ReferralSource
+- TotalPrice
+
+## 📊 SQL Operations Performed
+
+- SELECT
+- WHERE
+- ORDER BY
+- GROUP BY
+- COUNT()
+- SUM()
+- AVG()
+
+## 📈 Key Findings
+
+- Calculated total sales.
+- Calculated average order value.
+- Identified product-wise sales.
+- Analyzed payment methods.
+- Examined order status distribution.
+- Analyzed referral sources.
+
+## 📁 Project Structure
+
+```
+Project-3-SQL-Data-Analysis
+│
+├── Dataset
+├── SQL Queries
+├── Screenshots
+├── Report
+├── README.md
+└── LICENSE
+```
+
+## 👨‍💻 Author
+
+**Harshath Mohammad**
+
+## 📜 License
+
+This project is licensed under the MIT License.
